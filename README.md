@@ -1,7 +1,7 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for App
+	Catppuccin for Mako
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
@@ -18,15 +18,10 @@
 ## Usage
 
 1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
-
-## 🙋 FAQ (optional)
-
-- Q: **_"Where can I find the doc?"_**
-  A: Run `:help theme`
+2. Copy the contents of `config` into `$HOME/.config/mako/config`
+3. Reload mako with `pkill mako`
+4. Enjoy
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [Lokesh Krishna](https://github.com/lokesh-krishna)
