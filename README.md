@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/catppuccin/mako/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/mako?colorA=363a4f&colorB=b7bdf8&style=for-the-badge style=for-the-badgestyle=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/mako/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/mako?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
     <a href="https://github.com/catppuccin/mako/issues"><img src="https://img.shields.io/github/issues/catppuccin/mako?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
     <a href="https://github.com/catppuccin/mako/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/mako?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
