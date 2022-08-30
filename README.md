@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/catppuccin/mako/raw/main/assets/mako.png"/>
+  <img src="https://raw.githubusercontent.com/catppuccin/mako/main/assets/mako.png"/>
 </p>
 
 ## Usage
