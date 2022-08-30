@@ -18,7 +18,7 @@
 ## Usage
 
 1. Clone this repository locally
-2. Copy the contents of `config` into `$HOME/.config/mako/config`
+2. Copy the contents of `flavour-accent` into `$HOME/.config/mako/config`
 3. Reload mako with `pkill mako`
 4. Enjoy
 
