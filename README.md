@@ -12,19 +12,20 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/lokesh-krishna/mako/raw/main/assets/mako.png"/>
+  <img src="https://github.com/catppuccin/mako/raw/main/assets/mako.png"/>
 </p>
 
 ## Usage
 
 1. Clone this repository locally
-2. Copy the contents of `config` into `$HOME/.config/mako/config`
+2. Copy the content of selected flavour file from `src` folder into `$HOME/.config/mako/config`
 3. Reload mako with `pkill mako`
 4. Enjoy
 
 ## 💝 Thanks to
 
 - [Lokesh Krishna](https://github.com/lokesh-krishna)
+- [Isabelinc](https://github.com/Isabelincorp)
 
 &nbsp;
 
