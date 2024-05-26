@@ -1,19 +1,16 @@
 ---
 whiskers:
-  version: 2.1.0
+  version: "2.2.0"
   matrix:
     - flavor
   filename: "themes/{{ flavor.identifier }}"
 ---
-
-{%- set palette = flavor.colors -%}
-
 # Colors
 
-background-color=#{{ palette.base.hex }}
-text-color=#{{ palette.text.hex }}
-border-color=#{{ palette.blue.hex }}
-progress-color=over #{{ palette.surface0.hex}}
+background-color=#{{ base.hex }}
+text-color=#{{ text.hex }}
+border-color=#{{ blue.hex }}
+progress-color=over #{{ surface0.hex}}
 
 [urgency=high]
-border-color=#{{ palette.peach.hex }}
+border-color=#{{ peach.hex }}
