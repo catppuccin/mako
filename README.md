@@ -1,7 +1,7 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://github.com/emersion/mako">Mako</a>
+	Catppuccin for <a href="https://github.com/emersion/mako">mako</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
@@ -12,15 +12,13 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/mako/main/assets/mako.png"/>
+	<img src="assets/preview.png"/>
 </p>
 
 ## Usage
 
-1. Clone this repository locally
-2. Copy the content of selected flavour file from `src` folder into `$HOME/.config/mako/config`
-3. Reload mako with `makoctl reload`
-4. Enjoy
+1. Copy the content of the flavor of your choice from [`themes/`](./themes/) to `$HOME/.config/mako/config`.
+2. Reload mako with `makoctl reload`.
 
 ## 💝 Thanks to
 
