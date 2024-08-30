@@ -1,15 +1,16 @@
 ---
 whiskers:
-  version: "2.2.0"
+  version: "2.4.0"
   matrix:
     - flavor
-  filename: "themes/{{ flavor.identifier }}"
+    - accent
+  filename: "themes/{{ flavor.identifier }}/{{ accent }}"
 ---
 # Colors
 
 background-color=#{{ base.hex }}
 text-color=#{{ text.hex }}
-border-color=#{{ blue.hex }}
+border-color=#{{ flavor.colors[accent].hex }}
 progress-color=over #{{ surface0.hex}}
 
 [urgency=high]
