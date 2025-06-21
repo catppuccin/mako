@@ -50,11 +50,15 @@ Ex:
 
 cd ~/
 
-git clone https://github.com/catppuccin/mako.git
+git clone https://github.com/tuxslack/mako.git
 
 cd mako/
 
+mkdir -p $HOME/.config/mako/
+
 mv -i themes/* $HOME/.config/mako/
+
+alternador-de-tema-mako.sh
 
 " \
 --buttons-layout=center \
