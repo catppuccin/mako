@@ -28,10 +28,13 @@
     $ mkdir -p $HOME/.config/mako/
 
     $ mv -i themes/* $HOME/.config/mako/
+
+    Root: mv usr /
   
     $ alternador-de-tema-mako.sh
 
-2. Reload mako with `makoctl reload`.
+
+3. Reload mako with `makoctl reload`.
 
     `$ makoctl reload`
 
