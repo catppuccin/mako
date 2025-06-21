@@ -17,13 +17,29 @@
 
 ## Usage
 
-1. Copy the content of the flavor of your choice from [`themes/`](./themes/) to `$HOME/.config/mako/config`.
+1.
+
+    $ cd ~/
+
+    $ git clone https://github.com/tuxslack/mako.git
+
+    $ cd mako/
+
+    $ mkdir -p $HOME/.config/mako/
+
+    $ mv -i themes/* $HOME/.config/mako/
+  
+    $ alternador-de-tema-mako.sh
+
 2. Reload mako with `makoctl reload`.
+
+    `$ makoctl reload`
 
 ## 💝 Thanks to
 
 - [Lokesh Krishna](https://github.com/lokesh-krishna)
 - [Isabelinc](https://github.com/Isabelincorp)
+- [catppuccin](https://github.com/catppuccin)
 
 &nbsp;
 
